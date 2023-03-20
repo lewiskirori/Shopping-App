@@ -1,7 +1,5 @@
 # Shopping-App
 
-## Introduction
-
 ## Pages
 
     1. Home Page
