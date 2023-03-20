@@ -3,12 +3,8 @@
 ## Table of content
 
 - [Shopping-App](#shopping-app)
-  - [Table of content](#table-of-content)
-  - [Introduction](#introduction)
   - [Pages](#pages)
   - [Home page](#home-page)
-
-## Introduction
 
 ## Pages
 
