@@ -12,8 +12,8 @@
     2. About
     3. Cart
     4. Deals
-    5. Products' Page
-    6. Products' Details
+    5. Products Page
+    6. Products Details
     7. Search Module
     8. My account
 
